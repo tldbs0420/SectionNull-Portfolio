@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ede157c1a114d4c86b45a03830fd5d, type: 3}
+  m_Name: SPAS_Config
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerWeaponConfig
+  weaponData: {fileID: 11400000, guid: f1e6313b6bdfb4e03bd7dab284e6c57f, type: 2}
+  weaponStatTable: {fileID: 11400000, guid: 7af1788ca486d45e38e019523fa80422, type: 2}
+  _magSize: 6
+  _ammoPerReload: 2
+  _reloadTime: 1
+  _fireInterval: 2
+  _maxRecoil: 0.885
+  _recoilPerShot: 0.194
+  _recoilDamping: 0.709
+  _recoilRecoverySpeed: 0.3
+  _recoilRecoveryTime: 0.4
+  _cameraRecoil: 5
+  _spreadMap:
+  - {x: -0.3, y: 0.3}
+  - {x: -0.2, y: -0.2}
+  - {x: 0.3, y: 0.3}
+  - {x: 0.2, y: -0.3}
+  _weaponRecoilDirection: {x: 0.001, y: 0, z: -0.1}
+  _cameraRecoilDirection: {x: 1, y: 4}
+  _maxAimDistance: 10
+  _minAimDistance: 1
+  _maxAimRadius: 3
+  EquipClipLength: 1.4
+  UnequipClipLength: 1
+  FireClipLength: 1
+  ReloadClipLength: 1
+  InsertClipLength: 1.43
+  ReloadEndClipLength: 1

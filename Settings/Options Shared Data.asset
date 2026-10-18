@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Options Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Options
+  m_TableCollectionNameGuidString: 6b4159ffd734c3445baaf961b92e3ea5
+  m_Entries:
+  - m_Id: 48868147200
+    m_Key: ScreenMode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75346788352
+    m_Key: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92572794880
+    m_Key: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118229352448
+    m_Key: Graphic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129902100480
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146662539264
+    m_Key: Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186453901312
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205508624384
+    m_Key: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216220876800
+    m_Key: Cancle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231093878784
+    m_Key: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 385205190656
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631725408256
+    m_Key: FullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 669868408832
+    m_Key: Borderless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675308421120
+    m_Key: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5506228076544
+    m_Key: NoRestric
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5680396550144
+    m_Key: VeryLow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735480344576
+    m_Key: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5737229369344
+    m_Key: Med
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5739016142848
+    m_Key: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5831987085312
+    m_Key: Applied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14188655460352
+    m_Key: SureResetOption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14250030710784
+    m_Key: Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14330007699456
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14337947516928
+    m_Key: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14404880220160
+    m_Key: ReallyMain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14479824044032
+    m_Key: ReallyExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68509115924480
+    m_Key: GetOut
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 699639719449592488
+  references:
+    version: 2
+    RefIds:
+    - rid: 699639719449592488
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1764469983143

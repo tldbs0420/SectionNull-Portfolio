@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenu Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: MainMenu
+  m_TableCollectionNameGuidString: e14135870de3e294fb60562cf8e40995
+  m_Entries:
+  - m_Id: 28752265216
+    m_Key: Single
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1252067164160
+    m_Key: Multi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1311429148672
+    m_Key: Op
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1354286546944
+    m_Key: Cre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382937837568
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20694809493504
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20853945581568
+    m_Key: Mult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21203490488320
+    m_Key: ChooseWeapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21276030976000
+    m_Key: Primary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21288752300032
+    m_Key: Secondary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21361385062400
+    m_Key: Assult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21362903400448
+    m_Key: Shotgun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21364291715072
+    m_Key: SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21367118675968
+    m_Key: Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21894879559680
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 699639719449592459
+  references:
+    version: 2
+    RefIds:
+    - rid: 699639719449592459
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1764468830440

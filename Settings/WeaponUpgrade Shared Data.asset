@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: WeaponUpgrade Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: WeaponUpgrade
+  m_TableCollectionNameGuidString: 813db628d831c72469487e42b053c827
+  m_Entries:
+  - m_Id: 5469683712
+    m_Key: WeaponUpgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122163609600
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261301256192
+    m_Key: Wood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286697766912
+    m_Key: Woodx5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404629012480
+    m_Key: Gear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 454050496512
+    m_Key: Gearx5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511420186624
+    m_Key: SearchItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595016859648
+    m_Key: PleaseInputItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 947325812736
+    m_Key: TotalPrice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1053768859648
+    m_Key: Credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1319876476928
+    m_Key: Special Material
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1419822546944
+    m_Key: SpecialMaterialx5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1479801094144
+    m_Key: ZombieCore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1551137816576
+    m_Key: Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1899130830848
+    m_Key: Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2014608408576
+    m_Key: Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18885932007424
+    m_Key: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18918131679232
+    m_Key: Sub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19397481906176
+    m_Key: Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19427450208256
+    m_Key: FireRate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19483838431232
+    m_Key: Ammo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19530734944256
+    m_Key: Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20402835603456
+    m_Key: Materials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20961521090560
+    m_Key: Enough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21114340556800
+    m_Key: Need
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 699639719449592674
+  references:
+    version: 2
+    RefIds:
+    - rid: 699639719449592674
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1764475652569

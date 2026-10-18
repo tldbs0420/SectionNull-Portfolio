@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Options_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6b4159ffd734c3445baaf961b92e3ea5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 48868147200
+    m_Localized: Screen Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 385205190656
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231093878784
+    m_Localized: APPLY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216220876800
+    m_Localized: CANCLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205508624384
+    m_Localized: SETTING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186453901312
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146662539264
+    m_Localized: Mouse Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129902100480
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118229352448
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92572794880
+    m_Localized: Refresh Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75346788352
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631725408256
+    m_Localized: FullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 669868408832
+    m_Localized: Borderless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675308421120
+    m_Localized: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5506228076544
+    m_Localized: Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5680396550144
+    m_Localized: Very Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5737229369344
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5739016142848
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735480344576
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5831987085312
+    m_Localized: Applied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14188655460352
+    m_Localized: Are you sure you want to reset all game settings?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14250030710784
+    m_Localized: '* This action cannot be undone. *'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14330007699456
+    m_Localized: YES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14337947516928
+    m_Localized: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14404880220160
+    m_Localized: Are you sure you want to return to the main menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14479824044032
+    m_Localized: Are you sure you want to quit the game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68509115924480
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

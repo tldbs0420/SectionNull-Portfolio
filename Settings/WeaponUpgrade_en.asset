@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: WeaponUpgrade_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 813db628d831c72469487e42b053c827, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5469683712
+    m_Localized: Weapon Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122163609600
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286697766912
+    m_Localized: Wood (x5)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261301256192
+    m_Localized: Wood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404629012480
+    m_Localized: Gears
+    m_Metadata:
+      m_Items: []
+  - m_Id: 454050496512
+    m_Localized: Gears (x5)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511420186624
+    m_Localized: Search Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595016859648
+    m_Localized: Search by item name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 947325812736
+    m_Localized: Total Price
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1053768859648
+    m_Localized: Credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1419822546944
+    m_Localized: Special Material (x5)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1319876476928
+    m_Localized: Special Material
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1479801094144
+    m_Localized: Zombie Core
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1551137816576
+    m_Localized: Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1899130830848
+    m_Localized: Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2014608408576
+    m_Localized: Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18885932007424
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18918131679232
+    m_Localized: Sub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19397481906176
+    m_Localized: Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19427450208256
+    m_Localized: Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19483838431232
+    m_Localized: Ammo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19530734944256
+    m_Localized: Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20402835603456
+    m_Localized: Materials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21114340556800
+    m_Localized: Need
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20961521090560
+    m_Localized: Good
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

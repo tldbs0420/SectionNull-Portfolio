@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ede157c1a114d4c86b45a03830fd5d, type: 3}
+  m_Name: D_Eagle_Config
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerWeaponConfig
+  weaponData: {fileID: 11400000, guid: d927f6406fbae4c0d9fbf81c85a1ef66, type: 2}
+  weaponStatTable: {fileID: 11400000, guid: 1c1dfce4b66314722b7ce04c5368bd63, type: 2}
+  _magSize: 10
+  _ammoPerReload: 10
+  _reloadTime: 1
+  _fireInterval: 0.5
+  _maxRecoil: 1
+  _recoilPerShot: 0.926
+  _recoilDamping: 0.756
+  _recoilRecoverySpeed: 2
+  _recoilRecoveryTime: 0.2
+  _cameraRecoil: 10
+  _spreadMap:
+  - {x: 0.01, y: 0.02}
+  - {x: 0.005, y: 0.012}
+  - {x: 0.02, y: 0.003}
+  _weaponRecoilDirection: {x: -0.001, y: 0.03, z: -0.1}
+  _cameraRecoilDirection: {x: 0, y: 3}
+  _maxAimDistance: 35
+  _minAimDistance: 1
+  _maxAimRadius: 1.5
+  EquipClipLength: 2
+  UnequipClipLength: 1
+  FireClipLength: 1
+  ReloadClipLength: 1.5
+  InsertClipLength: 1
+  ReloadEndClipLength: 1

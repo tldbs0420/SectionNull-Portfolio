@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LevelUp Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: LevelUp
+  m_TableCollectionNameGuidString: 32c7163c8d332d84d92de2831309e36b
+  m_Entries:
+  - m_Id: 11543035904
+    m_Key: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54140387328
+    m_Key: GetPoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420475092992
+    m_Key: CharaStat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 436316979200
+    m_Key: EquipmentStats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 750357102592
+    m_Key: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 867847946240
+    m_Key: Defense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 909589659648
+    m_Key: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 919131701248
+    m_Key: JumpPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 930473099264
+    m_Key: ReloadSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051726233600
+    m_Key: Accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1752976113664
+    m_Key: UpgradePoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799147012096
+    m_Key: AvailablePoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1941614936064
+    m_Key: TotalGained
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952926973952
+    m_Key: TotalUsed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3055039070208
+    m_Key: PlayerInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3141655642112
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3185985241088
+    m_Key: EXP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3254381756416
+    m_Key: CharacterTotalStat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3515477180416
+    m_Key: Progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5871174467584
+    m_Key: Ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5876161495040
+    m_Key: Locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915944468480
+    m_Key: Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5991827816448
+    m_Key: Cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6138536181760
+    m_Key: DMGReduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10120096694272
+    m_Key: Increases max health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10126279098368
+    m_Key: Reduces damage taken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10149804949504
+    m_Key: Increases movement speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10171216871424
+    m_Key: Improves weapon accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10195623526400
+    m_Key: Increases jump power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10216465022976
+    m_Key: Reduces weapon reload time
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 699639719449592739
+  references:
+    version: 2
+    RefIds:
+    - rid: 699639719449592739
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1764481101555

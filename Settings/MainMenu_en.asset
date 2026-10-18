@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e14135870de3e294fb60562cf8e40995, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28752265216
+    m_Localized: Single Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1252067164160
+    m_Localized: Multi Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1311429148672
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1354286546944
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382937837568
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20694809493504
+    m_Localized: CLOSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20853945581568
+    m_Localized: Multiplayer is under development!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21203490488320
+    m_Localized: Choose Your Weapons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21276030976000
+    m_Localized: Primary Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21288752300032
+    m_Localized: Secondary Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21361385062400
+    m_Localized: Assult Rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21362903400448
+    m_Localized: Shotgun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21364291715072
+    m_Localized: SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21367118675968
+    m_Localized: Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21894879559680
+    m_Localized: START
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

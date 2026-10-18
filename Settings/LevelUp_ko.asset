@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LevelUp_ko
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 32c7163c8d332d84d92de2831309e36b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11543035904
+    m_Localized: "\uC5C5\uADF8\uB808\uC774\uB4DC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54140387328
+    m_Localized: "\uC880\uBE44\uB97C \uCC98\uB9AC\uD574\uC11C \uC5C5\uADF8\uB808\uC774\uB4DC
+      \uD3EC\uC778\uD2B8\uB97C \uD76D\uB4DD\uD558\uC138\uC694!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 436316979200
+    m_Localized: "\uC7A5\uBE44 \uC2A4\uD0EF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420475092992
+    m_Localized: "\uCE90\uB9AD\uD130 \uC2A4\uD15F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051726233600
+    m_Localized: "\uC815\uD655\uB3C4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 930473099264
+    m_Localized: "\uC7AC\uC7A5\uC804 \uC18D\uB3C4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 919131701248
+    m_Localized: "\uC810\uD504\uB825"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 909589659648
+    m_Localized: "\uC18D\uB3C4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 867847946240
+    m_Localized: "\uBC29\uC5B4\uB825"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 750357102592
+    m_Localized: "\uCCB4\uB825"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1752976113664
+    m_Localized: "\uC5C5\uADF8\uB808\uC774\uB4DC \uD3EC\uC778\uD2B8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799147012096
+    m_Localized: "\uC0AC\uC6A9 \uAC00\uB2A5\uD55C \uD3EC\uC778\uD2B8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1941614936064
+    m_Localized: "\uCD1D \uD68D\uB4DD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952926973952
+    m_Localized: "\uCD1D \uC0AC\uC6A9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3055039070208
+    m_Localized: "\uD50C\uB808\uC774\uC5B4 \uC815\uBCF4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3141655642112
+    m_Localized: "\uB808\uBCA8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3185985241088
+    m_Localized: "\uACBD\uD5D8\uCE58"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3254381756416
+    m_Localized: "\uCE90\uB9AD\uD130 \uB2A5\uB825\uCE58"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3515477180416
+    m_Localized: "\uC9C4\uD589\uB3C4 -"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5871174467584
+    m_Localized: "\uAD6C\uB9E4 \uAC00\uB2A5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5876161495040
+    m_Localized: "\uAD6C\uB9E4 \uBD88\uAC00"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915944468480
+    m_Localized: "\uD6A8\uACFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5991827816448
+    m_Localized: "\uBE44\uC6A9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6138536181760
+    m_Localized: "\uD53C\uD574 \uAC10\uC18C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10120096694272
+    m_Localized: "\uCD5C\uB300 \uCCB4\uB825\uC744 \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10126279098368
+    m_Localized: "\uBC1B\uB294 \uD53C\uD574\uB97C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10149804949504
+    m_Localized: "\uC774\uB3D9\uC18D\uB3C4\uB97C \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10171216871424
+    m_Localized: "\uBB34\uAE30 \uC815\uD655\uB3C4\uB97C \uD5A5\uC0C1\uC2DC\uD0B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10195623526400
+    m_Localized: "\uC810\uD504\uB825\uC744 \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10216465022976
+    m_Localized: "\uBB34\uAE30 \uC7AC\uC7A5\uC804 \uC2DC\uAC04\uC744 \uB2E8\uCD95\uD569\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

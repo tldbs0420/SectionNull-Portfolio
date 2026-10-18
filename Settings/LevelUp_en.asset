@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LevelUp_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 32c7163c8d332d84d92de2831309e36b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11543035904
+    m_Localized: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54140387328
+    m_Localized: Defeat zombies to earn upgrade points!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420475092992
+    m_Localized: Character Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 436316979200
+    m_Localized: Equipment Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 930473099264
+    m_Localized: Reload Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 919131701248
+    m_Localized: Jump Power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 909589659648
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 867847946240
+    m_Localized: Defense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 750357102592
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051726233600
+    m_Localized: Accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1752976113664
+    m_Localized: Upgrade Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799147012096
+    m_Localized: Available Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1941614936064
+    m_Localized: Total Gained
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952926973952
+    m_Localized: Total Used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3055039070208
+    m_Localized: Player Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3141655642112
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3185985241088
+    m_Localized: EXP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3254381756416
+    m_Localized: Character Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3515477180416
+    m_Localized: Progress -
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5871174467584
+    m_Localized: Ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5876161495040
+    m_Localized: Locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915944468480
+    m_Localized: Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5991827816448
+    m_Localized: Cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6138536181760
+    m_Localized: DMG Reduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10216465022976
+    m_Localized: Reduces weapon reload time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10195623526400
+    m_Localized: Increases jump power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10171216871424
+    m_Localized: Improves weapon accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10149804949504
+    m_Localized: Increases movement speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10126279098368
+    m_Localized: Reduces damage taken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10120096694272
+    m_Localized: Increases max health
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
